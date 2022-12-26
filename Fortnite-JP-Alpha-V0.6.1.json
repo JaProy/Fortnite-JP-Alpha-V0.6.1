@@ -1,0 +1,75 @@
+{
+ "Data":[
+   {
+    "Condition": "Creating the new FJA project"
+    ,"Dato" : "Hola bro"
+    ,"LoadingScreenID?" : "2"
+    ,"PermissionOpen" : "False"
+    ,"ConsumablesInFloor" : "True"
+    ,"XPMin" : "60000"
+    ,"XPMultiply" : "1"
+    ,"EventID" : "0"
+    ,"ZipLine" : "False"
+    ,"MRTest" : "False"
+   }
+ ],
+  "Lobby":[
+   {
+    "ShopDate": "Con la Actualización" 
+    ,"FondoLobbyID?" : "5"
+    ,"SoundLobbyID?" : "2"
+    ,"ShopSkin1" : "M_HolidayNutCracker"
+    ,"ShopSkin2" : "F_Elf"
+    ,"ShopSkin3" : "F_HolidayPJ_A"
+    ,"ShopPickaxe1" : "Pickaxe_HoppityHeist"
+    ,"ShopBag1" : "M_Nutcracker"
+    ,"ShopBag2" : "EXP_Gold"
+    ,"ShopEmote1" : "EM_CrackShotClock"
+    ,"SeassonShop" : "0"
+    ,"SeassonShopDate" : "No Espesificado"
+   }
+ ],
+  "GameModesAdvance":[
+   {
+    "Slot01?": "True" 
+    ,"IDSlot01" : "Creativo"
+    ,"Slot02?" : "True"
+    ,"IDSlot02" : "MHice_1"
+    ,"Slot03?" : "True"
+    ,"IDSlot03" : "ModoZombies"
+    ,"Slot04?" : "True"
+    ,"IDSlot04" : "EventNewYear_Bloqued"
+   }
+ ],
+   "Noticias":[
+   {
+    "Notice?": "True"
+    ,"Image": "https://media.discordapp.net/attachments/768678782651203584/1055937892591075409/pUK2MwEUWQGUfSpZ2vF8MA_1.jpg"
+    ,"ImageMiniature" : "https://media.discordapp.net/attachments/768678782651203584/1055947023846735982/Screenshot_20221223_143311.jpg"
+    ,"TRTL1" : "-100"
+    ,"Title1" : "WINTERFEST"
+    ,"Title2" : "El evento de invierno ya ha llegado!" 
+    ,"SubTitle1" : "Obtén recompensas completamente gratis con los (Códigos) que estaré dando en" 
+    ,"SubTitle2" : "mi discord los días ya indicados. (SI NO ESTAS EN MI DISCORD, EL ENLACE" 
+    ,"SubTitle3" : "DE ESTE ESTARÁ EN LA SECCIÓN DE (Códigos)). BY: FN JA Proyect"
+   }
+ ],
+ "GameModes":[
+   {
+    "MapNONE": "True"
+    ,"ModoPractica" : "True"
+    ,"OroSolido": "False"
+    ,"ModoZombies": "False"
+   }
+ ],
+  "VaRest":[
+   {
+    "LinkVaRest": "None"
+   }
+ ],
+   "Codes":[
+   {
+    "Upload": "123"
+   }
+ ]
+}
