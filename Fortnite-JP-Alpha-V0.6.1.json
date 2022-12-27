@@ -15,7 +15,7 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "Con la Actualización" 
+    "ShopDate": "31 de Diciembre" 
     ,"FondoLobbyID?" : "5"
     ,"SoundLobbyID?" : "2"
     ,"ShopSkin1" : "F_MED_Peppermint"
@@ -24,7 +24,7 @@
     ,"ShopPickaxe1" : "Peppermint_Female_Axe"
     ,"ShopBag1" : "F_MED_Peppermint_Pack"
     ,"ShopBag2" : "M_MED_Lima_Bean_Pack"
-    ,"ShopEmote1" : "EM_CrackShotClock"
+    ,"ShopEmote1" : "EM_CrackShot"
     ,"SeassonShop" : "0"
     ,"SeassonShopDate" : "No Espesificado"
    }
