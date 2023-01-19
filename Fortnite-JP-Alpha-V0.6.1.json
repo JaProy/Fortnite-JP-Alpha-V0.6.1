@@ -33,9 +33,9 @@
    {
     "Slot01?": "True" 
     ,"IDSlot01" : "Creativo"
-    ,"Slot02?" : "True"
+    ,"Slot02?" : "False"
     ,"IDSlot02" : "MundoDeHielo"
-    ,"Slot03?" : "True"
+    ,"Slot03?" : "False"
     ,"IDSlot03" : "MHice_0"
     ,"Slot04?" : "False"
     ,"IDSlot04" : "EventNewYear"
