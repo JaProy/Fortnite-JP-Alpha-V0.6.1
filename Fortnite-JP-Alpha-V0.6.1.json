@@ -15,16 +15,16 @@
  ],
   "Lobby":[
    {
-    "ShopDate": "En proceso" 
+    "ShopDate": "No Espesificado" 
     ,"FondoLobbyID?" : "5"
     ,"SoundLobbyID?" : "2"
-    ,"ShopSkin1" : "F_MED_Photographer_Holiday"
-    ,"ShopSkin2" : "M_MED_Jupiter"
-    ,"ShopSkin3" : "M_MED_Base_Commando_Elf"
-    ,"ShopPickaxe1" : "Pixkaxe_Teriyaki_FEA"
-    ,"ShopBag1" : "F_MED_Photographer_Holiday_Pack"
-    ,"ShopBag2" : "Jupiter"
-    ,"ShopEmote1" : "EM_CrackShotClock"
+    ,"ShopSkin1" : "M_MED_HeadBand"
+    ,"ShopSkin2" : "M_MED_HeadBand_s"
+    ,"ShopSkin3" : "M_MED_Lexa"
+    ,"ShopPickaxe1" : "SK_Pickaxe_Lexa_Male"
+    ,"ShopBag1" : "M_MED_LexaPack"
+    ,"ShopBag2" : "F_MED_LexaPack"
+    ,"ShopEmote1" : "EM_Electroshuffle"
     ,"SeassonShop" : "0"
     ,"SeassonShopDate" : "No Espesificado"
    }
